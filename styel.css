@@ -1,0 +1,19 @@
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  form {
+    display: flex;
+    margin-bottom: 10px;
+  }
+  
+  input[type="text"] {
+    flex-grow: 1;
+    padding: 5px;
+  }
+  
+  button {
+    margin-left: 10px;
+  }
+  
